@@ -11,7 +11,7 @@
 # Themes
 
 - [Atom Material UI](https://atom.io/themes/atom-material-ui)
-- [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
+- [Duotone Blue Dark](https://atom.io/themes/duotone-blue-dark-syntax)
 
 # Packages
 
